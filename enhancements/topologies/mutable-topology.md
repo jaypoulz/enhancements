@@ -6,8 +6,15 @@ authors:
   - "@eggfoobar"
 reviewers:
   - "@tjungblu, for cluster-etcd-operator"
+  - "@dusk125, for cluster-etcd-operator"
   - "@joelspeed, for API, infrastructure config, and cluster-config-operator scope"
+  - "@patrickdillon, for OpenShift installer"
+  - "@zaneb, for metal platform interaction"
+  - "@ardaguclu, for OpenShift client"
+  - "@atiratree, for OpenShift client"
   - "@jerpeter, for OpenShift architecture"
+  - "@sdodson, for architecture"
+  - "@dgoodwin, for architecture"
 approvers:
   - "@jerpeter, for OpenShift architecture"
 api-approvers:
